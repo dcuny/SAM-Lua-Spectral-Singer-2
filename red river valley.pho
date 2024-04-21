@@ -1,0 +1,70 @@
+{transpose -7; tempo 90} 
+{d3}***QX 
+FR{d3; 50%}*AH1M 
+DH{g3; 50%}*IX1S 
+V{b3}*AE1L{b3; 50%}*IY0 
+DH{a3; 50%}*EY1 
+S{g3}*EY1 
+Y{a3; 50%}*UW1 
+{g3; 50%}*AA1R 
+G{e3; 50%}*OW1{g3; 250%}*IH0NG 
+
+W{d3; 50%}*IY1 
+W{g3; 50%}*IH1L 
+M{b3}*IH1S Y{g3; 50%}*OW1R 
+BR{b3; 50%}*AY1T 
+{d4}*AY1Z 
+{c4; 50%}*EH0 ND 
+SW{b3; 50%}*IY1T 
+SM{a3; 300%}*AY1L 
+
+F{d4; 50%}*AO1R 
+DH{c4; 50%}*EY1 
+S{b3}*EY1 
+Y{b3; 50%}*UW1 
+{a3; 50%}*AA1R 
+T{g3}*EY1K{a3; 50%}*IH0NG 
+DH{b3; 50%}*AH0 
+S{d4; 50%}*AH1NSH{c4; 250%}*AY2N   
+DH{e3; 50%}*AE1T 
+HH{e3; 50%}*AE1Z 
+BR{d3}*AY1T{f#3; 50%}*IH0ND 
+{g3; 50%}*AW1R 
+P{a3}*AE1THW{b3; 50%}*EY1 
+{a3; 50%}*AH0 
+W{g3; 300%}*AY1L 
+
+K{d3; 50%}*AH1M 
+{g3; 50%}*EH0ND 
+S*{b3}IH1T 
+B{b3; 50%}*AY1 
+M{a3; 50%}*AY1 
+S{g3}*AY1D 
+{a3; 50%}*IH1F 
+Y{g3; 50%}*UW1 
+L{e3; 50%}*AH1V 
+M{g3; 250%}*IY1 
+
+D{d3; 50%}*UW1 
+N{g3; 50%}*AA1T 
+HH{b3}*EY1S{g3; 50%}*IX0N 
+T{b3; 50%}*UW1 
+B{d4}*IH1D 
+M{c4; 50%}*IY1 
+{b3; 50%}*AH0DY{a3; 300%}*UW1 
+
+B{d4; 50%}*AH1T 
+R{c4; 50%}*IY0M{b3}*EH1MB{b3; 50%}*ER0 
+DH{a3; 50%}*AH0 
+R{g3}*EH1D 
+R{a3; 50%}*IH1V{b3; 50%}*ER0 
+V{d4; 50%}*AE1L{c4; 250%}*IY0 
+
+{e3; 50%}*EH0ND 
+{e3}DHAH0 
+K{d3}*AW1B{f#3; 50%}*OY2 
+HH{g3; 50%}*UW1 
+L{a3}*AH1VD 
+Y{b3; 50%}*UW1 
+S{a3; 50%}*OW1 
+TR{g3; 200%}*UW1 **QX
