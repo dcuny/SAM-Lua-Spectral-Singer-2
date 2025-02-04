@@ -29,12 +29,12 @@ The following commands are implemented:
 
 	transpose <half steps>			  Set the transposition for the song
 	tempo <beats per minute>		  Set the tempo for the song
-	<step><accidental><octave>		Pitch
+	<step><accidental><octave>		  Pitch
 	<amount>%						          Duration modifier (percent)
 
 Commands are enclosed in braces, like so:
 
-	{transpose -7}
+  {transpose -7}
   {tempo 120}
   {c#4}
   {50%}
