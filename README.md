@@ -30,7 +30,7 @@ The following commands are implemented:
 	transpose <half steps>			  Set the transposition for the song
 	tempo <beats per minute>		  Set the tempo for the song
 	<step><accidental><octave>		  Pitch
-	<amount>%						          Duration modifier (percent)
+	<amount>%		                  Duration modifier (percent)
 
 Commands are enclosed in braces, like so:
 
@@ -41,7 +41,7 @@ Commands are enclosed in braces, like so:
 	
 Multiple commands can be strung together between braces if seperated by semi-colons:
 
-	{transpose -7; tempo 120}
+  {transpose -7; tempo 120}
 	
 Pitches are specified in the form
 
@@ -89,44 +89,44 @@ The phonemes are based on the Arpabet. See  http://www.speech.cs.cmu.edu/cgi-bin
 
     Phoneme Example Translation
     AA		  odd     AA D
-    AE		  at	    AE T
-    AH		  hut	    HH AH T
+    AE		  at	  AE T
+    AH		  hut	  HH AH T
     AO		  ought	  AO T
-    AW		  cow	    K AW
+    AW		  cow	  K AW
     AY		  hide	  HH AY D
-    B 		  be	    B IY
-    CH		  cheese	CH IY Z
-    D 		  dee	    D IY
+    B 		  be	  B IY
+    CH		  cheese  CH IY Z
+    D 		  dee	  D IY
     DH		  thee	  DH IY
-    EH		  Ed	    EH D
+    EH		  Ed	  EH D
     ER		  hurt	  HH ER T
-    EY		  ate	    EY T
-    F 		  fee	    F IY
+    EY		  ate	  EY T
+    F 		  fee	  F IY
     G 		  green	  G R IY N
-    HH		  he	    HH IY
-    IH		  it	    IH T
-    IY		  eat	    IY T
-    JH		  gee	    JH IY
-    K 		  key	    K IY
-    L 		  lee	    L IY
-    M 		  me	    M IY
+    HH		  he	  HH IY
+    IH		  it	  IH T
+    IY		  eat	  IY T
+    JH		  gee	  JH IY
+    K 		  key	  K IY
+    L 		  lee	  L IY
+    M 		  me	  M IY
     N 		  knee	  N IY
     NG		  ping	  P IH NG
-    OW		  oat	    OW T
-    OY		  toy	    T OY
-    P 		  pee	    P IY
+    OW		  oat	  OW T
+    OY		  toy	  T OY
+    P 		  pee	  P IY
     R 		  read	  R IY D
-    S 		  sea	    S IY
-    SH		  she	    SH IY
-    T 		  tea	    T IY
+    S 		  sea	  S IY
+    SH		  she	  SH IY
+    T 		  tea	  T IY
     TH		  theta	  TH EY T AH
     UH		  hood	  HH UH D
-    UW		  two	    T UW
-    V 		  vee	    V IY
-    W 		  we	    W IY
+    UW		  two	  T UW
+    V 		  vee	  V IY
+    W 		  we	  W IY
     Y 		  yield	  Y IY L D
-    Z 		  zee	    Z IY
-    ZH		  seizure	S IY ZH ER
+    Z 		  zee	  Z IY
+    ZH		  seizure S IY **ZH** ER
 
 The **QX** phoneme is used as silence, and is treated as a nucleus.
 
